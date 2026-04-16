@@ -1,0 +1,201 @@
+driver_id,rating,experience_years,total_trips,car_type,car_type_enc,home_zone,home_zone_enc,specialties,is_nightlife_spec,is_airport_spec,is_event_spec,is_wedding_spec,languages,speaks_spanish,speaks_english,acceptance_rate,on_time_rate,cancellation_rate,avg_response_sec,music_pref,allows_pets,prefers_quiet
+DRV0000,4.2,1.9,330,Sedan,0,Brickell,1,wedding,0,0,0,1,"Spanish,Portuguese",1,0,0.81,0.95,0.02,35,none,0,0
+DRV0001,4.23,1.5,235,Sedan,0,Brickell,1,"event,nightlife,long_distance",1,0,1,0,"Creole,English",0,1,0.66,0.92,0.009,143,none,0,0
+DRV0002,4.53,10.6,1876,Sedan,0,Aventura,8,"airport,event",0,1,1,0,"Creole,English",0,1,0.94,0.9,0.017,45,pop,0,1
+DRV0003,4.74,1.1,137,Sedan,0,Wynwood,2,errand,0,0,0,0,English,0,1,0.84,0.91,0.031,82,latin,0,0
+DRV0004,4.69,0.7,135,Luxury,2,Downtown,7,"nightlife,event,wedding",1,0,1,1,Creole,0,0,0.88,0.98,0.015,68,latin,0,0
+DRV0005,4.55,3.5,448,Sedan,0,South Beach,0,"airport,errand,nightlife",1,1,0,0,Spanish,1,0,0.83,1.0,0.005,55,latin,0,0
+DRV0006,4.8,1.6,267,Sedan,0,Wynwood,2,"errand,airport",0,1,0,0,Portuguese,0,0,0.9,0.86,0.061,110,jazz,1,0
+DRV0007,4.35,2.8,302,Sedan,0,Aventura,8,"airport,wedding,event",0,1,1,1,"Creole,French",0,0,0.77,0.98,0.023,27,jazz,0,0
+DRV0008,4.27,2.7,237,Convertible,4,South Beach,0,nightlife,1,0,0,0,Portuguese,0,0,0.88,0.78,0.003,117,pop,0,0
+DRV0009,4.52,1.3,127,Convertible,4,Little Havana,5,wedding,0,0,0,1,French,0,0,0.57,0.76,0.052,91,latin,1,0
+DRV0010,5.0,1.7,222,Sedan,0,Aventura,8,"wedding,long_distance",0,0,0,1,French,0,0,0.8,0.74,0.022,126,latin,1,0
+DRV0011,4.88,6.8,1230,Luxury,2,Aventura,8,"nightlife,wedding",1,0,0,1,"Spanish,English",1,1,0.93,0.86,0.018,112,jazz,0,1
+DRV0012,4.83,7.0,567,Sedan,0,Midtown,6,"event,long_distance,errand",0,0,1,0,Creole,0,0,0.85,0.89,0.067,66,jazz,0,0
+DRV0013,4.87,1.3,179,SUV,1,Aventura,8,"wedding,errand",0,0,0,1,"Spanish,English",1,1,0.65,0.97,0.03,54,none,0,0
+DRV0014,5.0,5.3,763,SUV,1,Coconut Grove,4,"airport,long_distance,nightlife",1,1,0,0,Portuguese,0,0,0.92,0.92,0.125,25,classical,1,1
+DRV0015,4.41,2.0,384,Sedan,0,Wynwood,2,"long_distance,nightlife,errand",1,0,0,0,"French,Portuguese",0,0,0.84,0.89,0.082,64,latin,1,1
+DRV0016,4.81,1.8,318,Luxury,2,Doral,9,nightlife,1,0,0,0,French,0,0,0.78,0.78,0.083,31,classical,0,1
+DRV0017,4.37,0.8,140,SUV,1,Downtown,7,"airport,errand,event",0,1,1,0,Spanish,1,0,0.74,0.87,0.029,20,jazz,0,0
+DRV0018,5.0,3.4,377,SUV,1,Midtown,6,"wedding,errand,event",0,0,1,1,Creole,0,0,0.89,0.93,0.002,91,pop,1,1
+DRV0019,4.22,4.1,446,Sedan,0,Aventura,8,long_distance,0,0,0,0,"Spanish,English",1,1,0.57,0.65,0.011,73,none,0,0
+DRV0020,4.44,0.5,86,Sedan,0,Brickell,1,"airport,errand,event",0,1,1,0,Spanish,1,0,0.97,0.69,0.018,41,classical,0,1
+DRV0021,4.33,6.3,787,Sedan,0,Downtown,7,"airport,nightlife",1,1,0,0,English,0,1,0.84,0.66,0.051,31,hip_hop,0,0
+DRV0022,4.56,10.2,1856,Sedan,0,South Beach,0,"wedding,nightlife,long_distance",1,0,0,1,French,0,0,0.89,0.83,0.015,72,none,1,1
+DRV0023,4.6,5.4,1031,Sedan,0,Downtown,7,event,0,0,1,0,Spanish,1,0,0.76,0.78,0.09,88,none,0,0
+DRV0024,4.46,1.7,154,Sedan,0,Aventura,8,nightlife,1,0,0,0,Creole,0,0,0.88,0.6,0.014,60,pop,1,0
+DRV0025,4.78,4.7,531,Sedan,0,Coral Gables,3,"nightlife,airport",1,1,0,0,French,0,0,0.84,0.93,0.073,14,hip_hop,1,0
+DRV0026,4.39,0.8,123,Luxury,2,Aventura,8,"wedding,event,airport",0,1,1,1,"Spanish,English",1,1,0.69,0.93,0.054,34,jazz,0,0
+DRV0027,4.65,7.6,1436,Sedan,0,South Beach,0,long_distance,0,0,0,0,French,0,0,0.71,0.86,0.086,158,classical,1,0
+DRV0028,4.53,0.5,65,Convertible,4,Brickell,1,nightlife,1,0,0,0,"Spanish,Creole",1,0,0.82,0.92,0.029,12,none,0,0
+DRV0029,5.0,1.5,228,Sedan,0,Doral,9,"nightlife,long_distance,wedding",1,0,0,1,French,0,0,0.97,0.82,0.054,17,classical,0,1
+DRV0030,4.88,7.8,1076,SUV,1,Little Havana,5,errand,0,0,0,0,"French,Portuguese",0,0,0.89,0.84,0.187,91,latin,0,0
+DRV0031,4.07,2.4,345,Sedan,0,South Beach,0,"long_distance,wedding",0,0,0,1,"Spanish,English",1,1,0.79,0.92,0.006,51,latin,1,1
+DRV0032,4.84,1.3,221,Sedan,0,Brickell,1,errand,0,0,0,0,"Creole,Portuguese",0,0,0.86,0.92,0.077,16,latin,0,0
+DRV0033,4.71,0.6,120,Luxury,2,Aventura,8,wedding,0,0,0,1,"Creole,English",0,1,0.78,0.83,0.062,53,pop,1,0
+DRV0034,4.62,6.4,1094,Sedan,0,Aventura,8,errand,0,0,0,0,Portuguese,0,0,0.86,0.91,0.007,16,latin,1,0
+DRV0035,4.42,3.6,669,Minivan,3,Coconut Grove,4,"event,errand,nightlife",1,0,1,0,English,0,1,0.88,0.94,0.006,37,latin,1,1
+DRV0036,4.54,1.2,181,SUV,1,Wynwood,2,"errand,airport,event",0,1,1,0,Creole,0,0,0.55,0.84,0.012,30,none,1,0
+DRV0037,4.1,2.5,315,SUV,1,Wynwood,2,"nightlife,errand,airport",1,1,0,0,"French,Portuguese",0,0,0.83,0.9,0.017,31,none,0,1
+DRV0038,4.19,0.6,118,Sedan,0,Coral Gables,3,"nightlife,errand,event",1,0,1,0,Creole,0,0,0.75,0.96,0.043,35,pop,0,0
+DRV0039,4.26,0.9,118,SUV,1,Wynwood,2,"nightlife,airport",1,1,0,0,Portuguese,0,0,0.91,0.95,0.019,112,jazz,0,0
+DRV0040,3.77,0.8,151,Convertible,4,Coconut Grove,4,wedding,0,0,0,1,English,0,1,0.81,0.94,0.132,48,hip_hop,1,0
+DRV0041,4.33,1.5,196,Sedan,0,Downtown,7,"errand,airport",0,1,0,0,Spanish,1,0,0.97,0.81,0.047,12,latin,1,1
+DRV0042,4.35,1.7,317,SUV,1,Coconut Grove,4,"wedding,long_distance",0,0,0,1,French,0,0,0.92,0.93,0.003,48,classical,0,1
+DRV0043,4.72,6.0,810,Sedan,0,Coconut Grove,4,long_distance,0,0,0,0,"Creole,Portuguese",0,0,0.75,0.76,0.085,31,latin,0,1
+DRV0044,4.86,2.4,192,SUV,1,Doral,9,"nightlife,event,airport",1,1,1,0,"French,Portuguese",0,0,0.8,0.96,0.045,16,classical,0,0
+DRV0045,4.79,5.2,852,Minivan,3,Coral Gables,3,"event,nightlife",1,0,1,0,Portuguese,0,0,0.93,0.84,0.106,87,none,0,1
+DRV0046,4.9,0.9,93,Sedan,0,Coconut Grove,4,"event,errand,wedding",0,0,1,1,Portuguese,0,0,0.67,0.99,0.009,49,hip_hop,0,1
+DRV0047,4.74,2.0,236,Sedan,0,Wynwood,2,"long_distance,errand,event",0,0,1,0,Creole,0,0,0.51,0.88,0.1,17,latin,1,0
+DRV0048,4.16,3.1,449,Luxury,2,Doral,9,"errand,event,long_distance",0,0,1,0,French,0,0,0.9,0.63,0.003,83,hip_hop,0,0
+DRV0049,4.21,0.5,88,SUV,1,Wynwood,2,"nightlife,errand,long_distance",1,0,0,0,English,0,1,0.89,0.86,0.014,34,pop,0,1
+DRV0050,4.98,7.9,1248,SUV,1,Coral Gables,3,nightlife,1,0,0,0,"English,French",0,1,0.84,0.91,0.044,112,none,0,0
+DRV0051,4.52,1.2,133,Sedan,0,Doral,9,wedding,0,0,0,1,French,0,0,0.88,0.68,0.033,99,pop,0,1
+DRV0052,4.75,9.3,1404,Sedan,0,Brickell,1,"airport,wedding",0,1,0,1,Creole,0,0,0.96,0.95,0.011,14,pop,0,1
+DRV0053,4.27,5.3,932,Sedan,0,Wynwood,2,"wedding,long_distance",0,0,0,1,Creole,0,0,0.63,0.86,0.061,10,hip_hop,0,0
+DRV0054,4.23,0.8,112,Sedan,0,Aventura,8,"long_distance,event",0,0,1,0,Spanish,1,0,0.43,0.92,0.021,35,hip_hop,1,1
+DRV0055,5.0,1.5,165,Minivan,3,Coconut Grove,4,"event,airport,errand",0,1,1,0,"French,Portuguese",0,0,0.74,0.87,0.01,16,latin,0,0
+DRV0056,4.82,5.9,1003,Convertible,4,Brickell,1,airport,0,1,0,0,Spanish,1,0,0.72,0.72,0.078,59,pop,1,0
+DRV0057,4.82,1.1,141,Minivan,3,Aventura,8,"event,nightlife",1,0,1,0,Spanish,1,0,0.88,0.95,0.02,67,classical,0,1
+DRV0058,4.29,1.6,302,SUV,1,Doral,9,"event,nightlife",1,0,1,0,"French,Portuguese",0,0,0.92,0.98,0.035,13,hip_hop,0,0
+DRV0059,4.38,4.4,365,SUV,1,Doral,9,event,0,0,1,0,"Spanish,French",1,0,0.53,0.81,0.03,102,hip_hop,0,0
+DRV0060,4.52,4.5,882,Luxury,2,Midtown,6,"airport,event,wedding",0,1,1,1,Creole,0,0,0.77,0.82,0.002,47,hip_hop,0,0
+DRV0061,4.72,7.9,955,Sedan,0,Brickell,1,"event,airport,wedding",0,1,1,1,"Spanish,French",1,0,0.6,0.81,0.027,13,pop,0,1
+DRV0062,4.73,4.1,717,Sedan,0,Midtown,6,"event,errand",0,0,1,0,English,0,1,0.79,0.72,0.046,82,classical,1,0
+DRV0063,5.0,19.0,3021,Sedan,0,Coral Gables,3,"nightlife,wedding,long_distance",1,0,0,1,"Spanish,English",1,1,0.6,0.68,0.015,25,pop,1,0
+DRV0064,4.28,1.3,227,Sedan,0,Brickell,1,"airport,event,errand",0,1,1,0,"Creole,Portuguese",0,0,0.86,0.94,0.04,21,jazz,1,0
+DRV0065,4.8,9.1,1392,SUV,1,Coconut Grove,4,long_distance,0,0,0,0,English,0,1,0.54,0.91,0.003,63,jazz,0,1
+DRV0066,4.17,1.0,188,Luxury,2,Coral Gables,3,long_distance,0,0,0,0,"Spanish,Portuguese",1,0,0.87,0.83,0.007,46,jazz,0,1
+DRV0067,4.62,0.8,101,SUV,1,Doral,9,errand,0,0,0,0,Creole,0,0,0.83,0.84,0.025,60,none,0,1
+DRV0068,4.66,3.0,558,Sedan,0,Midtown,6,"nightlife,event",1,0,1,0,Portuguese,0,0,0.8,0.82,0.041,105,hip_hop,0,0
+DRV0069,4.83,6.7,1159,Sedan,0,Aventura,8,"errand,long_distance,event",0,0,1,0,French,0,0,0.79,0.93,0.0,54,classical,1,0
+DRV0070,4.08,1.4,230,SUV,1,Brickell,1,"event,airport",0,1,1,0,French,0,0,0.87,0.89,0.132,65,hip_hop,0,0
+DRV0071,4.57,0.7,86,SUV,1,Little Havana,5,event,0,0,1,0,"Spanish,Portuguese",1,0,0.97,0.81,0.001,61,latin,0,0
+DRV0072,3.94,2.3,326,Sedan,0,Coconut Grove,4,"nightlife,long_distance,airport",1,1,0,0,"English,French",0,1,0.77,0.79,0.007,55,classical,0,0
+DRV0073,4.51,2.0,238,Sedan,0,Downtown,7,"nightlife,wedding",1,0,0,1,"Spanish,Portuguese",1,0,0.79,0.61,0.142,76,jazz,0,0
+DRV0074,4.55,6.1,695,Luxury,2,Aventura,8,"event,long_distance",0,0,1,0,"French,Portuguese",0,0,0.72,0.88,0.008,40,latin,1,1
+DRV0075,5.0,0.7,80,SUV,1,Coral Gables,3,"nightlife,long_distance",1,0,0,0,"Spanish,French",1,0,0.91,1.0,0.053,39,jazz,0,0
+DRV0076,4.66,0.8,94,Sedan,0,Doral,9,"nightlife,airport",1,1,0,0,"Spanish,Portuguese",1,0,0.91,0.84,0.005,62,none,0,1
+DRV0077,4.52,5.3,508,Sedan,0,South Beach,0,long_distance,0,0,0,0,Portuguese,0,0,0.79,0.94,0.068,13,jazz,0,0
+DRV0078,4.97,7.3,817,SUV,1,South Beach,0,"errand,event,long_distance",0,0,1,0,"English,French",0,1,0.64,0.84,0.009,28,hip_hop,1,1
+DRV0079,4.65,1.1,129,Luxury,2,Downtown,7,long_distance,0,0,0,0,"Creole,English",0,1,0.55,0.87,0.003,71,none,0,1
+DRV0080,4.51,2.2,259,Sedan,0,Midtown,6,"long_distance,wedding,airport",0,1,0,1,"Creole,French",0,0,0.41,0.88,0.009,16,classical,0,1
+DRV0081,5.0,4.3,455,Minivan,3,Doral,9,long_distance,0,0,0,0,English,0,1,0.87,0.74,0.049,18,jazz,1,0
+DRV0082,4.61,2.0,264,Convertible,4,Wynwood,2,airport,0,1,0,0,"Creole,English",0,1,0.95,0.84,0.029,22,hip_hop,0,0
+DRV0083,4.42,3.4,469,Luxury,2,South Beach,0,errand,0,0,0,0,Portuguese,0,0,0.84,0.6,0.046,24,none,0,0
+DRV0084,4.63,0.7,137,SUV,1,Doral,9,"airport,event,nightlife",1,1,1,0,"Spanish,Creole",1,0,0.92,0.86,0.123,42,latin,0,1
+DRV0085,4.65,2.5,347,SUV,1,Wynwood,2,"long_distance,wedding",0,0,0,1,Portuguese,0,0,0.94,0.6,0.057,101,jazz,0,0
+DRV0086,5.0,3.0,579,Sedan,0,Coconut Grove,4,"long_distance,event,wedding",0,0,1,1,English,0,1,0.78,0.6,0.052,78,hip_hop,0,0
+DRV0087,4.66,3.0,246,Luxury,2,South Beach,0,airport,0,1,0,0,Creole,0,0,0.68,0.83,0.078,27,jazz,0,0
+DRV0088,4.23,1.9,256,Sedan,0,Wynwood,2,"long_distance,event",0,0,1,0,"Creole,Portuguese",0,0,0.54,0.9,0.062,99,jazz,0,0
+DRV0089,5.0,2.7,510,SUV,1,Downtown,7,"event,errand",0,0,1,0,Portuguese,0,0,0.93,0.88,0.144,12,pop,0,0
+DRV0090,4.79,8.7,1052,Sedan,0,Coconut Grove,4,"event,long_distance,nightlife",1,0,1,0,"French,Portuguese",0,0,0.91,0.95,0.057,15,none,0,0
+DRV0091,4.8,1.1,94,SUV,1,Aventura,8,wedding,0,0,0,1,Creole,0,0,0.94,0.74,0.087,146,pop,0,0
+DRV0092,4.59,3.3,653,Luxury,2,Downtown,7,"event,nightlife,airport",1,1,1,0,Portuguese,0,0,0.76,0.93,0.016,34,latin,0,0
+DRV0093,4.84,3.8,646,Sedan,0,Brickell,1,wedding,0,0,0,1,Creole,0,0,0.47,0.86,0.001,21,pop,0,1
+DRV0094,5.0,2.0,190,SUV,1,Midtown,6,airport,0,1,0,0,English,0,1,0.84,0.98,0.175,13,jazz,0,0
+DRV0095,5.0,0.8,88,Minivan,3,Coconut Grove,4,"wedding,errand,event",0,0,1,1,French,0,0,0.9,0.94,0.011,44,hip_hop,0,1
+DRV0096,4.57,1.7,321,Sedan,0,Doral,9,"wedding,airport,nightlife",1,1,0,1,Portuguese,0,0,0.63,0.94,0.054,36,hip_hop,0,0
+DRV0097,4.17,4.7,723,Sedan,0,Coconut Grove,4,errand,0,0,0,0,Portuguese,0,0,0.81,0.87,0.037,14,jazz,0,1
+DRV0098,4.96,4.7,601,Sedan,0,Aventura,8,"errand,wedding",0,0,0,1,Creole,0,0,0.78,0.93,0.18,36,hip_hop,0,0
+DRV0099,4.72,3.3,561,SUV,1,Coral Gables,3,"event,airport,wedding",0,1,1,1,"English,French",0,1,0.72,0.89,0.083,13,hip_hop,0,0
+DRV0100,4.72,2.0,244,Sedan,0,Wynwood,2,"nightlife,airport",1,1,0,0,Creole,0,0,0.56,0.85,0.025,41,none,0,0
+DRV0101,4.71,2.0,198,Sedan,0,Aventura,8,"nightlife,airport",1,1,0,0,French,0,0,0.81,0.83,0.038,56,none,0,0
+DRV0102,4.61,1.2,226,SUV,1,Little Havana,5,"wedding,event,nightlife",1,0,1,1,Portuguese,0,0,0.7,0.86,0.065,12,classical,0,1
+DRV0103,4.46,2.6,512,Convertible,4,Downtown,7,"nightlife,long_distance,wedding",1,0,0,1,Spanish,1,0,0.71,0.56,0.033,89,latin,0,0
+DRV0104,4.24,4.5,756,Luxury,2,Midtown,6,wedding,0,0,0,1,English,0,1,0.84,0.96,0.012,45,latin,0,1
+DRV0105,4.72,2.3,303,Luxury,2,South Beach,0,"errand,wedding",0,0,0,1,"Creole,French",0,0,0.91,0.66,0.029,79,classical,0,1
+DRV0106,4.59,1.6,176,SUV,1,Wynwood,2,long_distance,0,0,0,0,French,0,0,0.77,0.77,0.08,42,hip_hop,0,1
+DRV0107,4.99,1.0,139,Luxury,2,Downtown,7,"errand,event,wedding",0,0,1,1,English,0,1,0.89,0.85,0.161,29,latin,0,1
+DRV0108,4.99,5.0,690,SUV,1,Downtown,7,"long_distance,errand",0,0,0,0,French,0,0,0.85,0.73,0.123,31,latin,1,1
+DRV0109,4.3,1.2,183,Sedan,0,Downtown,7,airport,0,1,0,0,French,0,0,0.83,0.74,0.036,16,latin,0,1
+DRV0110,4.71,1.7,297,Minivan,3,Midtown,6,"nightlife,long_distance",1,0,0,0,English,0,1,0.92,0.89,0.01,86,hip_hop,0,0
+DRV0111,4.87,6.4,1024,Luxury,2,Coral Gables,3,"errand,airport,long_distance",0,1,0,0,"Spanish,Creole",1,0,0.78,0.83,0.009,11,none,0,0
+DRV0112,4.53,1.0,91,Sedan,0,Coconut Grove,4,"nightlife,long_distance",1,0,0,0,Portuguese,0,0,0.8,0.83,0.031,102,latin,0,0
+DRV0113,4.04,3.5,686,Luxury,2,Coral Gables,3,long_distance,0,0,0,0,Portuguese,0,0,0.93,0.95,0.034,29,latin,0,1
+DRV0114,5.0,5.1,453,SUV,1,Downtown,7,"wedding,errand",0,0,0,1,English,0,1,0.88,0.98,0.042,53,pop,0,1
+DRV0115,4.37,1.8,248,SUV,1,Midtown,6,"errand,nightlife,event",1,0,1,0,English,0,1,0.79,0.86,0.072,13,latin,0,0
+DRV0116,4.85,0.7,98,Luxury,2,Doral,9,"wedding,errand",0,0,0,1,English,0,1,0.99,0.96,0.046,298,none,0,0
+DRV0117,4.36,8.6,808,SUV,1,Little Havana,5,"airport,nightlife,event",1,1,1,0,Portuguese,0,0,0.91,0.57,0.016,11,pop,1,1
+DRV0118,4.35,0.6,58,SUV,1,Downtown,7,nightlife,1,0,0,0,Spanish,1,0,0.75,0.89,0.005,68,hip_hop,0,0
+DRV0119,5.0,2.6,483,Luxury,2,Aventura,8,"long_distance,airport",0,1,0,0,French,0,0,0.9,0.9,0.015,22,hip_hop,0,0
+DRV0120,4.44,1.5,165,Luxury,2,Coconut Grove,4,wedding,0,0,0,1,"French,Portuguese",0,0,0.92,0.87,0.028,10,latin,1,0
+DRV0121,4.6,3.8,714,Minivan,3,Aventura,8,"errand,nightlife,event",1,0,1,0,"English,Portuguese",0,1,0.96,0.76,0.054,170,hip_hop,1,1
+DRV0122,4.32,3.3,594,Sedan,0,Doral,9,nightlife,1,0,0,0,"Spanish,Portuguese",1,0,0.72,0.89,0.037,37,classical,1,0
+DRV0123,4.68,2.5,272,SUV,1,Aventura,8,long_distance,0,0,0,0,Spanish,1,0,0.8,0.94,0.055,23,latin,0,0
+DRV0124,4.87,1.0,149,SUV,1,Doral,9,errand,0,0,0,0,Spanish,1,0,0.82,0.9,0.045,15,latin,0,1
+DRV0125,4.45,3.7,407,Luxury,2,South Beach,0,nightlife,1,0,0,0,Portuguese,0,0,0.86,0.53,0.02,44,classical,0,1
+DRV0126,4.81,1.0,175,Sedan,0,South Beach,0,wedding,0,0,0,1,French,0,0,0.88,0.94,0.057,36,none,0,0
+DRV0127,4.58,3.4,401,Convertible,4,Aventura,8,"nightlife,event,airport",1,1,1,0,Creole,0,0,0.95,0.77,0.062,69,hip_hop,0,1
+DRV0128,4.6,1.1,149,SUV,1,Downtown,7,"event,nightlife",1,0,1,0,French,0,0,0.87,0.79,0.035,66,none,0,1
+DRV0129,4.54,5.7,877,Sedan,0,Wynwood,2,airport,0,1,0,0,Portuguese,0,0,0.59,0.75,0.178,16,classical,0,1
+DRV0130,4.94,3.9,366,Sedan,0,Doral,9,"errand,event,long_distance",0,0,1,0,English,0,1,0.81,0.75,0.015,11,jazz,0,0
+DRV0131,4.69,1.6,209,Minivan,3,Coral Gables,3,"event,airport",0,1,1,0,French,0,0,0.76,0.86,0.02,99,hip_hop,0,1
+DRV0132,4.63,2.9,263,Sedan,0,Little Havana,5,"errand,wedding,airport",0,1,0,1,"English,French",0,1,0.84,0.88,0.001,68,hip_hop,1,0
+DRV0133,4.37,1.6,305,Minivan,3,Wynwood,2,"nightlife,long_distance,errand",1,0,0,0,English,0,1,0.82,0.93,0.047,26,jazz,0,0
+DRV0134,4.72,4.6,492,SUV,1,South Beach,0,"long_distance,errand",0,0,0,0,"Creole,Portuguese",0,0,0.79,0.93,0.044,14,pop,0,1
+DRV0135,4.95,7.7,1178,Minivan,3,Brickell,1,"long_distance,errand",0,0,0,0,English,0,1,1.0,0.86,0.022,54,pop,0,0
+DRV0136,4.26,3.2,595,SUV,1,Doral,9,"wedding,long_distance,nightlife",1,0,0,1,Creole,0,0,0.88,0.48,0.043,23,jazz,1,1
+DRV0137,4.35,1.8,273,Sedan,0,Coconut Grove,4,"errand,nightlife",1,0,0,0,Spanish,1,0,0.95,0.87,0.001,11,jazz,0,1
+DRV0138,4.84,0.8,110,SUV,1,South Beach,0,wedding,0,0,0,1,"Creole,French",0,0,0.74,0.95,0.033,40,latin,1,1
+DRV0139,4.37,4.1,352,SUV,1,Little Havana,5,"long_distance,nightlife,wedding",1,0,0,1,"Spanish,Creole",1,0,0.67,0.93,0.003,62,jazz,1,0
+DRV0140,4.27,0.9,84,Sedan,0,Midtown,6,"long_distance,event",0,0,1,0,"Creole,French",0,0,0.4,0.8,0.057,50,latin,0,1
+DRV0141,4.72,0.5,43,SUV,1,Doral,9,"long_distance,errand",0,0,0,0,"Creole,English",0,1,0.89,0.97,0.026,39,none,1,0
+DRV0142,3.97,3.1,316,Luxury,2,Wynwood,2,"errand,wedding",0,0,0,1,"English,French",0,1,0.81,0.96,0.037,87,pop,0,0
+DRV0143,4.59,6.3,535,Sedan,0,Aventura,8,"wedding,errand,nightlife",1,0,0,1,French,0,0,0.72,0.93,0.009,29,hip_hop,1,0
+DRV0144,4.53,1.0,82,SUV,1,Little Havana,5,"event,long_distance,wedding",0,0,1,1,French,0,0,0.83,0.98,0.146,62,latin,1,0
+DRV0145,4.38,1.0,131,SUV,1,Downtown,7,"errand,nightlife,event",1,0,1,0,"Creole,English",0,1,0.87,0.9,0.077,150,classical,1,0
+DRV0146,4.6,1.6,235,Luxury,2,Little Havana,5,errand,0,0,0,0,"Spanish,English",1,1,0.97,0.78,0.088,36,classical,1,0
+DRV0147,4.3,1.6,163,Sedan,0,Little Havana,5,"wedding,airport,long_distance",0,1,0,1,"Spanish,English",1,1,0.97,0.68,0.031,105,classical,1,0
+DRV0148,5.0,3.4,516,Sedan,0,Brickell,1,wedding,0,0,0,1,French,0,0,0.87,0.83,0.005,15,classical,0,0
+DRV0149,4.79,5.2,728,Minivan,3,Doral,9,"wedding,long_distance,errand",0,0,0,1,"English,Portuguese",0,1,0.75,0.99,0.009,31,hip_hop,0,0
+DRV0150,5.0,2.6,356,Minivan,3,Doral,9,errand,0,0,0,0,"Creole,French",0,0,0.65,0.72,0.003,36,none,1,0
+DRV0151,4.75,2.6,470,Sedan,0,Brickell,1,"nightlife,long_distance,event",1,0,1,0,French,0,0,0.7,0.97,0.023,152,jazz,0,0
+DRV0152,4.35,0.5,68,Sedan,0,Doral,9,"airport,errand,event",0,1,1,0,"Creole,English",0,1,0.81,0.84,0.069,14,none,0,0
+DRV0153,4.5,2.5,340,SUV,1,Brickell,1,"wedding,airport,nightlife",1,1,0,1,Spanish,1,0,0.87,0.99,0.033,65,classical,0,1
+DRV0154,4.47,0.7,60,Sedan,0,Little Havana,5,"event,wedding",0,0,1,1,Portuguese,0,0,0.66,0.89,0.011,183,jazz,0,1
+DRV0155,4.97,3.3,541,Sedan,0,Brickell,1,"wedding,event,errand",0,0,1,1,Portuguese,0,0,0.71,0.93,0.077,16,classical,0,1
+DRV0156,5.0,5.0,595,Sedan,0,Doral,9,"airport,errand,long_distance",0,1,0,0,"English,French",0,1,0.69,0.85,0.003,14,classical,0,0
+DRV0157,4.28,1.8,147,Sedan,0,Wynwood,2,"wedding,long_distance,nightlife",1,0,0,1,French,0,0,0.68,0.92,0.005,55,latin,0,0
+DRV0158,5.0,4.2,789,Sedan,0,Little Havana,5,"airport,wedding",0,1,0,1,"Spanish,Portuguese",1,0,0.92,0.68,0.051,41,none,0,0
+DRV0159,4.41,2.2,349,SUV,1,Aventura,8,wedding,0,0,0,1,Portuguese,0,0,0.92,0.68,0.013,20,pop,0,1
+DRV0160,5.0,3.9,647,SUV,1,Wynwood,2,"long_distance,airport,event",0,1,1,0,English,0,1,0.83,0.98,0.012,12,jazz,1,0
+DRV0161,4.7,0.9,162,SUV,1,Coconut Grove,4,"event,airport,long_distance",0,1,1,0,Portuguese,0,0,0.9,0.95,0.038,158,hip_hop,0,1
+DRV0162,4.56,2.7,359,SUV,1,Doral,9,"event,errand",0,0,1,0,French,0,0,0.92,0.85,0.017,30,pop,0,0
+DRV0163,4.97,0.5,46,Sedan,0,Wynwood,2,"nightlife,event",1,0,1,0,Portuguese,0,0,0.82,0.86,0.027,22,jazz,0,0
+DRV0164,4.5,2.5,362,Luxury,2,Coconut Grove,4,airport,0,1,0,0,Portuguese,0,0,0.79,0.89,0.014,78,pop,0,1
+DRV0165,4.47,3.1,393,Sedan,0,Coral Gables,3,"errand,nightlife",1,0,0,0,"Creole,French",0,0,0.72,0.96,0.029,17,pop,0,1
+DRV0166,4.7,0.5,81,SUV,1,Coral Gables,3,errand,0,0,0,0,English,0,1,0.77,0.98,0.017,35,latin,0,1
+DRV0167,4.92,0.6,48,Sedan,0,Coconut Grove,4,"wedding,airport",0,1,0,1,French,0,0,0.76,0.79,0.132,35,none,1,1
+DRV0168,4.66,3.2,352,Sedan,0,Wynwood,2,"wedding,long_distance,event",0,0,1,1,English,0,1,0.83,0.82,0.006,56,latin,1,1
+DRV0169,4.52,3.8,311,Sedan,0,Doral,9,"nightlife,wedding",1,0,0,1,French,0,0,0.85,0.74,0.064,39,jazz,0,1
+DRV0170,4.31,3.8,505,Sedan,0,Wynwood,2,"event,nightlife",1,0,1,0,Creole,0,0,0.93,0.79,0.065,47,pop,0,1
+DRV0171,4.17,1.8,259,Sedan,0,Little Havana,5,long_distance,0,0,0,0,Creole,0,0,0.85,0.89,0.037,49,classical,1,0
+DRV0172,4.31,2.7,334,Sedan,0,South Beach,0,"event,errand,long_distance",0,0,1,0,English,0,1,0.72,0.82,0.027,20,pop,0,0
+DRV0173,3.73,0.7,128,Luxury,2,Doral,9,"errand,airport,nightlife",1,1,0,0,Portuguese,0,0,0.68,0.98,0.002,75,jazz,1,0
+DRV0174,4.72,0.5,100,Sedan,0,Downtown,7,"event,airport,long_distance",0,1,1,0,English,0,1,0.9,0.85,0.014,19,hip_hop,1,1
+DRV0175,4.24,1.9,349,Minivan,3,Coral Gables,3,errand,0,0,0,0,Portuguese,0,0,0.59,0.95,0.064,23,classical,0,1
+DRV0176,4.6,3.3,445,Sedan,0,Coral Gables,3,"errand,nightlife",1,0,0,0,Portuguese,0,0,0.78,0.72,0.061,63,hip_hop,0,0
+DRV0177,5.0,4.4,501,Minivan,3,Midtown,6,"airport,event",0,1,1,0,"Creole,French",0,0,0.91,0.82,0.213,79,none,0,1
+DRV0178,4.57,4.5,544,Sedan,0,Doral,9,long_distance,0,0,0,0,"English,Portuguese",0,1,0.76,0.74,0.03,82,jazz,1,0
+DRV0179,4.68,2.9,501,Sedan,0,Midtown,6,wedding,0,0,0,1,"English,French",0,1,0.89,0.86,0.041,26,latin,0,0
+DRV0180,4.34,1.8,149,SUV,1,South Beach,0,wedding,0,0,0,1,"Spanish,French",1,0,0.94,0.73,0.021,56,pop,0,0
+DRV0181,4.41,3.8,478,SUV,1,Downtown,7,airport,0,1,0,0,"English,Portuguese",0,1,0.93,0.94,0.005,15,hip_hop,0,1
+DRV0182,4.57,2.1,321,Luxury,2,Wynwood,2,"event,errand,long_distance",0,0,1,0,French,0,0,0.55,0.92,0.016,13,pop,0,1
+DRV0183,4.53,0.7,100,Convertible,4,Coconut Grove,4,nightlife,1,0,0,0,English,0,1,0.82,0.7,0.011,26,classical,0,0
+DRV0184,4.83,1.4,162,SUV,1,Coconut Grove,4,"wedding,event",0,0,1,1,Spanish,1,0,0.78,0.61,0.013,92,jazz,0,0
+DRV0185,4.5,1.1,100,SUV,1,Brickell,1,nightlife,1,0,0,0,French,0,0,0.84,0.78,0.061,55,jazz,0,0
+DRV0186,4.5,1.3,222,Luxury,2,Little Havana,5,"nightlife,long_distance,errand",1,0,0,0,Portuguese,0,0,0.78,0.94,0.026,13,jazz,0,0
+DRV0187,5.0,9.6,796,Luxury,2,Little Havana,5,"airport,nightlife,wedding",1,1,0,1,"Spanish,French",1,0,0.8,0.97,0.038,49,latin,0,1
+DRV0188,4.37,2.8,478,Sedan,0,Aventura,8,long_distance,0,0,0,0,"English,French",0,1,0.88,0.97,0.018,12,jazz,0,0
+DRV0189,4.38,5.7,951,Sedan,0,Midtown,6,"nightlife,airport,errand",1,1,0,0,English,0,1,0.81,0.94,0.048,17,classical,0,0
+DRV0190,4.21,1.0,191,Sedan,0,Aventura,8,"long_distance,airport,wedding",0,1,0,1,French,0,0,0.93,0.81,0.008,29,none,0,0
+DRV0191,4.99,5.8,626,Luxury,2,Coconut Grove,4,airport,0,1,0,0,Portuguese,0,0,0.87,0.91,0.042,98,latin,0,0
+DRV0192,4.63,3.9,585,Luxury,2,Coconut Grove,4,errand,0,0,0,0,Spanish,1,0,0.93,0.96,0.008,67,latin,1,1
+DRV0193,4.22,4.5,693,Sedan,0,Aventura,8,long_distance,0,0,0,0,Spanish,1,0,0.9,0.47,0.003,22,pop,1,0
+DRV0194,4.56,1.2,135,SUV,1,Doral,9,"long_distance,nightlife",1,0,0,0,"Creole,English",0,1,0.69,0.75,0.124,44,jazz,1,0
+DRV0195,4.24,0.9,164,Sedan,0,Doral,9,"nightlife,event,errand",1,0,1,0,Portuguese,0,0,0.92,0.9,0.001,13,jazz,0,0
+DRV0196,5.0,2.4,254,SUV,1,South Beach,0,event,0,0,1,0,French,0,0,0.73,0.9,0.012,83,latin,0,1
+DRV0197,4.63,7.5,697,Sedan,0,Little Havana,5,"errand,event,airport",0,1,1,0,Portuguese,0,0,0.99,0.83,0.036,30,latin,1,1
+DRV0198,4.31,0.7,133,Sedan,0,Downtown,7,airport,0,1,0,0,"English,French",0,1,0.91,0.61,0.082,49,classical,0,0
+DRV0199,4.63,5.1,729,Luxury,2,Wynwood,2,"long_distance,errand",0,0,0,0,Spanish,1,0,0.65,0.87,0.094,50,classical,0,0

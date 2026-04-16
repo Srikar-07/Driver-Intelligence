@@ -1,0 +1,11 @@
+{
+  "content_based": "cosine similarity on 14 driver/customer features",
+  "collaborative": "SVD matrix factorization, 5000 interactions",
+  "hybrid_ranker": {
+    "MAE": 0.12,
+    "R2": -0.1251
+  },
+  "drivers": 200,
+  "customers": 500,
+  "interactions": 5000
+}

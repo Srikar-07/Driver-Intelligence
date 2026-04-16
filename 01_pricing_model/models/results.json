@@ -1,0 +1,17 @@
+{
+  "xgboost": {
+    "model": "XGBoost",
+    "MAE": 1.64,
+    "RMSE": 3.07,
+    "R2": 0.9768,
+    "MAPE": 3.77
+  },
+  "lightgbm": {
+    "model": "LightGBM",
+    "MAE": 1.61,
+    "RMSE": 3.06,
+    "R2": 0.977,
+    "MAPE": 3.68
+  },
+  "best": "LightGBM"
+}

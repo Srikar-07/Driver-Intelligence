@@ -1,0 +1,36 @@
+{
+  "isolation_forest": {
+    "ROC_AUC": 0.9856,
+    "weight": 0.331
+  },
+  "autoencoder": {
+    "ROC_AUC": 0.9936,
+    "weight": 0.334
+  },
+  "xgboost": {
+    "ROC_AUC": 1.0,
+    "weight": 0.336
+  },
+  "ensemble": {
+    "ROC_AUC": 1.0
+  },
+  "fraud_rate": 0.04,
+  "features": [
+    "distance_km",
+    "fare_usd",
+    "speed_kmh",
+    "duration_min",
+    "hour",
+    "is_night",
+    "driver_rating",
+    "customer_rating",
+    "trip_count_today",
+    "new_device",
+    "new_payment_method",
+    "location_jump_km",
+    "surge_multiplier",
+    "promo_applied",
+    "cancellations_today",
+    "fare_distance_ratio"
+  ]
+}
